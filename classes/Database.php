@@ -2,6 +2,8 @@
 
 // This is change main branch
 
+// Sample new code branch main
+
 class Database {
     private $server_name = "localhost";         // private誰からも見れないので安全（子も知らない）
     private $username = "root";                 // privateなのでrootを直接書いても安全    
