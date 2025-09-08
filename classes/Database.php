@@ -2,6 +2,8 @@
 
 // This is change main branch
 
+// This is from local going to github repo
+
 class Database {
     private $server_name = "localhost";         // private誰からも見れないので安全（子も知らない）
     private $username = "root";                 // privateなのでrootを直接書いても安全    
