@@ -1,5 +1,7 @@
 <?php
 
+// This is change main branch
+
 class Database {
     private $server_name = "localhost";         // private誰からも見れないので安全（子も知らない）
     private $username = "root";                 // privateなのでrootを直接書いても安全    
