@@ -13,8 +13,8 @@
     <div style="height: 100vh;>">
         <div class="row h-100 m-0">
             <div class="card w-50 my-auto mx-auto">
-                <div class="card-header bg-white border-0 py-3">
-                    <h1 class="text-center">LOGIN</h1>
+                <div class="card-header text-primary bg-white border-0 py-3">
+                    <h1 class="text-center">LOGIN <i class="fa-solid fa-right-to-bracket"></i></h1>
                 </div>
 
                 <div class="card-body">
